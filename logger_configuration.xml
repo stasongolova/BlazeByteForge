@@ -1,0 +1,3 @@
+self.next = None
+I can give you other defect code fragments in this article, but it is not interesting. I just wanted to say by all these examples that such errors can be found in various projects and both novice programmers and skilled programmers make them. Now let's discuss what we should do with all that stuff.
+_pUserLang->_styleArray.getStyler(STYLE_WORD2_INDEX);
